@@ -1,16 +1,5 @@
-# flutter_market_alpha
+# Практика 3 - Игошев М. Л. ЭФБО-02-22
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Скриншот главной страницы  | Скриншот описания |
+| ------------- | ------------- |
+| <img src="https://github.com/user-attachments/assets/0dc592ef-87d5-4cf5-a36a-814514e8c7c2" width="300">  | <img src="https://github.com/user-attachments/assets/82077368-bce4-4c1b-877b-1008b6aa094a" width="300">  |
